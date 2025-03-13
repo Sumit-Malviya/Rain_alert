@@ -1,6 +1,6 @@
 import requests
 
-api_key = "69f04e4613056b159c2761a9d9e664d2"
+api_key = API_KEY
 
 parameters = {
 
